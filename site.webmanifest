@@ -1,0 +1,21 @@
+ {
+    "name": "peter robert",
+    "short_name": "peter robert",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#3e64ff",
+    "background_color": "#3e64ff",
+    "display": "standalone",
+    "orientation":"any",
+    "start_url": "/"
+}
