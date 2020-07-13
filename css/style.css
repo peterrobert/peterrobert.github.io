@@ -149,6 +149,10 @@ a:not([href]):not([tabindex]) {
   a:not([href]):not([tabindex]):focus {
     outline: 0; }
 
+    #js{
+      margin-top: -64px;
+    }
+
 pre,
 code,
 kbd,
@@ -8636,7 +8640,7 @@ h1, h2, h3, h4, h5,
     display: block;
     width: 100%;
     position: relative;
-    z-index: 1; }
+    z-index: 1; }    margin-top: -64px;
 
 .ftco-about ul.about-info {
   display: inline-block;
