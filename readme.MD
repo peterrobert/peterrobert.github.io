@@ -1,4 +1,4 @@
-# The News Week clone
+# Personal portfolio
 
 > This is my portfolio.
 
