@@ -9717,3 +9717,30 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+/* == My css ==== */
+#projects-section .card{
+  -webkit-box-shadow: -1px -1px 17px 1px rgba(187,180,194,1);
+-moz-box-shadow: -1px -1px 17px 1px rgba(187,180,194,1);
+box-shadow: -1px -1px 17px 1px rgba(187,180,194,1);
+}
+
+#projects-section .card-img-top{
+  height: 250px;
+  border-bottom: 1px solid #000;
+}
+
+.port{
+  margin-top: 30px;
+}
+
+.fa .fa-github{
+  font-size: 15px;
+}
+
+.fa .fa-linkedin-square{
+  font-size: 15px;
+}
+
+.fa .fa-twitter-square{
+  font-size: 15px;
+}
