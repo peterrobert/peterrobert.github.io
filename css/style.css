@@ -9744,3 +9744,16 @@ box-shadow: -1px -1px 17px 1px rgba(187,180,194,1);
 .fa .fa-twitter-square{
   font-size: 15px;
 }
+
+#resume-section{
+  padding: 0em 0;
+  margin-top: -40px;
+}
+
+.port .card{
+  margin-top: 30px;
+}
+
+#projects-section{
+  margin-top: -90px;
+}
