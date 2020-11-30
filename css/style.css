@@ -9751,9 +9751,15 @@ box-shadow: -1px -1px 17px 1px rgba(187,180,194,1);
 }
 
 .port .card{
+  background-color: #FFFFFF;
   margin-top: 30px;
+  color: #525252;
 }
 
 #projects-section{
   margin-top: -90px;
+}
+
+.port .card{
+  color: #525252;
 }
