@@ -33,7 +33,7 @@ if ('serviceWorker' in navigator) {
 		}, function (err) {
 
 			// registration failed :(
-			toastr["error"]("service worker registration failed");
+			// toastr["error"]("service worker registration failed");
 			console.log(err);
 
 		});
