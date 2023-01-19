@@ -12634,6 +12634,7 @@ textarea.form-control {
 #projects-section .card-img-top {
   height: 250px;
   border-bottom: 1px solid #000;
+  object-fit: fill;
 }
 
 .port {
@@ -12693,6 +12694,7 @@ textarea.form-control {
 .skill-img .card img {
   min-height: 120px;
   max-height: 120px;
+  object-fit: contain;
 }
 
 .cv img {
